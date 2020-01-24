@@ -1,4 +1,6 @@
 {
   "id": 1,
-  "name": "James Bond"
+  "name": "James Bond",
+  "company": "MI 6",
+  "phone": "007"
 }

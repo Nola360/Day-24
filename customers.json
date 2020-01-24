@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "James Bond",
+    "company": "MI 6",
+    "phone": "007"
+  },
+  {
+    "id": 2,
+    "name": "Lebron James",
+    "company": "Los Angles Lakers",
+    "phone": "23"
+  },
+  {
+    "id": 2,
+    "name": "James Harden",
+    "company": "Houston Rockets",
+    "phone": "13"
+  }
+]
